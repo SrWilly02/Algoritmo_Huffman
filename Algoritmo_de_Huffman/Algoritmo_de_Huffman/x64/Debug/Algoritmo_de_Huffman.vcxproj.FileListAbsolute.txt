@@ -1,0 +1,2 @@
+C:\Users\USER\Desktop\Algoritmo_de_Huffman\Algoritmo_de_Huffman\x64\Debug\Algoritmo_de_Huffman.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Algoritmo_de_Huffman\Algoritmo_de_Huffman\x64\Debug\Algoritmo_de_Huffman.vcxproj.SuggestedBindingRedirects.cache
